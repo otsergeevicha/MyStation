@@ -1,0 +1,160 @@
+
+zombie_girl.png
+size: 1920,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_girl/armL
+  rotate: true
+  xy: 1854, 63
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+zombie_girl/armR
+  rotate: true
+  xy: 1854, 113
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+zombie_girl/ass
+  rotate: false
+  xy: 1901, 7
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zombie_girl/body
+  rotate: false
+  xy: 1877, 179
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0001
+  rotate: false
+  xy: 2, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0002
+  rotate: false
+  xy: 165, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0003
+  rotate: false
+  xy: 328, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0004
+  rotate: false
+  xy: 491, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0005
+  rotate: false
+  xy: 654, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0006
+  rotate: false
+  xy: 817, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0007
+  rotate: false
+  xy: 980, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0008
+  rotate: false
+  xy: 1143, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0009
+  rotate: false
+  xy: 1306, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0010
+  rotate: false
+  xy: 1469, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/death/death_0011
+  rotate: false
+  xy: 1632, 3
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_girl/eyes
+  rotate: false
+  xy: 1860, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+zombie_girl/hair
+  rotate: false
+  xy: 1795, 163
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+zombie_girl/hair_b
+  rotate: false
+  xy: 1795, 67
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+zombie_girl/head
+  rotate: false
+  xy: 1795, 2
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+zombie_girl/legL
+  rotate: true
+  xy: 1860, 23
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+zombie_girl/legR
+  rotate: false
+  xy: 1877, 119
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+zombie_girl/shadow
+  rotate: true
+  xy: 1875, 48
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1

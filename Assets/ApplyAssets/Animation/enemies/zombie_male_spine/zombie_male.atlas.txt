@@ -1,0 +1,139 @@
+
+zombie_male.png
+size: 1890,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_male/armL
+  rotate: false
+  xy: 1795, 25
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+zombie_male/armR
+  rotate: true
+  xy: 1852, 48
+  size: 56, 22
+  orig: 56, 22
+  offset: 0, 0
+  index: -1
+zombie_male/ass
+  rotate: false
+  xy: 1852, 28
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+zombie_male/body
+  rotate: true
+  xy: 1795, 126
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0001
+  rotate: false
+  xy: 2, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0002
+  rotate: false
+  xy: 165, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0003
+  rotate: false
+  xy: 328, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0004
+  rotate: false
+  xy: 491, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0005
+  rotate: false
+  xy: 654, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0006
+  rotate: false
+  xy: 817, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0007
+  rotate: false
+  xy: 980, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0008
+  rotate: false
+  xy: 1143, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0009
+  rotate: false
+  xy: 1306, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0010
+  rotate: false
+  xy: 1469, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/death/death_0011
+  rotate: false
+  xy: 1632, 2
+  size: 161, 229
+  orig: 161, 229
+  offset: 0, 0
+  index: -1
+zombie_male/head
+  rotate: false
+  xy: 1795, 172
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+zombie_male/legL
+  rotate: true
+  xy: 1795, 99
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+zombie_male/legR
+  rotate: false
+  xy: 1859, 106
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+zombie_male/shadow
+  rotate: true
+  xy: 1860, 162
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
