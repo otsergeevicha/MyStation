@@ -17,7 +17,17 @@ namespace Infrastructure.Reflex
             ISave save = container.Single<ISave>();
             IInputService input = container.Single<IInputService>();
             IWallet wallet = container.Single<IWallet>();
-            IGameFactory gameFactory = container.Single<IGameFactory>();
+            IGameFactory factory = container.Single<IGameFactory>();
+
+            CameraOperator cameraOperator = factory.CreateCamera();
+            Surroundings surroundings = factory.CreateSurroundings();
+            WindowRoot windowRoot = factory.CreateWindowRoot();
+            Handcar handcar = factory.CreateHandcar();
+            Pool pool = factory.CreatePool();
+            Hero hero = factory.CreateHero();
+
+            pool.Construct(factory, surroundings.GetSpawnPointsEnemies());
+            hero.Construct(handcar.GetSpawnPointHero);
         }
     }
 }
