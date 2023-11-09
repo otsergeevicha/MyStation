@@ -1,9 +1,7 @@
-﻿using Plugins.MonoCache;
+﻿using Infrastructure.Factory;
+using Plugins.MonoCache;
 using Reflex.Core;
 using Services.Factory;
-using Services.Inputs;
-using Services.SaveLoad;
-using Services.Wallet;
 
 namespace Infrastructure.Reflex
 {
@@ -14,9 +12,6 @@ namespace Infrastructure.Reflex
 
         private void LoadLevel(Container container)
         {
-            ISave save = container.Single<ISave>();
-            IInputService input = container.Single<IInputService>();
-            IWallet wallet = container.Single<IWallet>();
             IGameFactory factory = container.Single<IGameFactory>();
 
             CameraOperator cameraOperator = factory.CreateCamera();

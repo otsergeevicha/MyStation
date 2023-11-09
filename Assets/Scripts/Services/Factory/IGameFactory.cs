@@ -1,4 +1,5 @@
-﻿using Infrastructure.Reflex;
+﻿using Infrastructure.Factory;
+using Infrastructure.Reflex;
 
 namespace Services.Factory
 {
